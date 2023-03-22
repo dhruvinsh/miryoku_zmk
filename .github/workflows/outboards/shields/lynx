@@ -1,0 +1,7 @@
+# Copyright 2022 Manna Harbour
+# https://github.com/manna-harbour/miryoku
+
+outboard_repository=dhruvinsh/zmk-config
+outboard_ref=miryoku
+outboard_from=config/boards/shields/lynx
+outboard_to=boards/shields/lynx
